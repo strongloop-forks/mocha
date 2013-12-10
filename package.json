@@ -1,6 +1,6 @@
 {
   "name": "mocha",
-  "version": "1.15.1",
+  "version": "1.15.1-strongloop",
   "description": "simple, flexible, fun test framework",
   "keywords": [
     "mocha",
